@@ -3,76 +3,64 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Planora</title>
+
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<h1>Planora</h1>
+<header>
 
-<h2>Your AI Productivity Companion</h2>
+<h1>PLANORA</h1>
 
-<p>
-Plan smarter.
-Stay focused.
-Build better habits.
-</p>
+<p>Plan Smarter. Live Better.</p>
 
-<button>Get Started</button>
+<button id="startBtn">Get Started</button>
 
-<button>Watch Demo</button>
+</header>
 
-<hr>
+<section class="hero">
 
-<h2>Features</h2>
-
-<h3>📅 Smart Calendar</h3>
+<h2>Your AI Calendar</h2>
 
 <p>
-Automatically organizes your day.
+Planora automatically organizes your day based on your goals,
+schedule and energy.
 </p>
 
-<h3>🤖 AI Planner</h3>
+</section>
 
-<p>
-Tell Planora what you need to do and it creates your schedule.
-</p>
+<section class="features">
 
-<h3>🎯 Focus Mode</h3>
+<div class="card">
+📅
+<h3>Smart Calendar</h3>
+<p>Automatically plans your day.</p>
+</div>
 
-<p>
-Only one task appears at a time.
-</p>
+<div class="card">
+🤖
+<h3>AI Assistant</h3>
+<p>AI creates the perfect schedule.</p>
+</div>
 
-<h3>📈 Productivity</h3>
+<div class="card">
+🎯
+<h3>Focus Mode</h3>
+<p>One task at a time.</p>
+</div>
 
-<p>
-Track streaks, habits and completed tasks.
-</p>
+<div class="card">
+🔥
+<h3>Daily Streak</h3>
+<p>Stay motivated every day.</p>
+</div>
+
+</section>
+
+<script src="script.js"></script>
 
 </body>
 </html>
-PLANORA
-
-Plan Smarter.
-Live Better.
-
-The AI-powered productivity app that organizes your
-day based on your goals, schedule and energy.
-
-[ Get Started ]
-
-▼ Scroll to explore
-
-────────────────────────
-
-Smart Calendar
-AI Planner
-Focus Mode
-Productivity Stats
-
-────────────────────────
-
-Made for students,
-professionals and everyone
-who wants a better day.
