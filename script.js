@@ -1,5 +1,11 @@
-const button = document.getElementById("startBtn");
+const buttons=document.querySelectorAll("button");
 
-button.addEventListener("click", () => {
-    alert("Welcome to Planora! 🚀");
+buttons.forEach(button=>{
+
+button.addEventListener("click",()=>{
+
+alert("Welcome to Planora 🚀");
+
+});
+
 });
