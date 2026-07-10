@@ -1,12 +1,127 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>TEST</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Planora</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+
 </head>
 
-<body style="background:red;color:white;font-size:50px;text-align:center;padding-top:100px;">
+<body>
 
-PLANORA TEST
+<nav>
+
+<div class="logo">PLANORA</div>
+
+<ul>
+
+<li><a href="#">Home</a></li>
+<li><a href="#">Features</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact</a></li>
+
+</ul>
+
+</nav>
+
+<section class="hero">
+
+<h1>Plan Smarter.</h1>
+
+<h1>Live Better.</h1>
+
+<p>
+
+The AI productivity planner that organizes your
+schedule based on your goals, priorities and energy.
+
+</p>
+
+<div class="buttons">
+
+<button class="primary">
+
+Get Started
+
+</button>
+
+<button class="secondary">
+
+Learn More
+
+</button>
+
+</div>
+
+</section>
+
+<section class="cards">
+
+<div class="card">
+
+<h2>📅</h2>
+
+<h3>Smart Calendar</h3>
+
+<p>
+
+Automatically organizes your day.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>🤖</h2>
+
+<h3>AI Planner</h3>
+
+<p>
+
+AI builds your perfect schedule.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>🎯</h2>
+
+<h3>Focus Mode</h3>
+
+<p>
+
+One task at a time.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>📈</h2>
+
+<h3>Progress</h3>
+
+<p>
+
+Track streaks and productivity.
+
+</p>
+
+</div>
+
+</section>
+
+<script src="script.js"></script>
 
 </body>
 </html>
