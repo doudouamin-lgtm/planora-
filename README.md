@@ -350,3 +350,63 @@ color:#bdbdbd;
 line-height:1.7;
 
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Planora - Sign Up</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="login-container">
+
+<div class="logo">PLANORA</div>
+
+<h1>Create Account 🚀</h1>
+
+<p>Start planning smarter today.</p>
+
+<form>
+
+<input
+type="text"
+placeholder="Full Name"
+required>
+
+<input
+type="email"
+placeholder="Email"
+required>
+
+<input
+type="password"
+placeholder="Password"
+required>
+
+<button type="submit">
+Create Account
+</button>
+
+</form>
+
+<p class="bottom">
+
+Already have an account?
+
+<a href="login.html">
+
+Log In
+
+</a>
+
+</p>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
