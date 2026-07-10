@@ -1,66 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Planora</title>
-
-<link rel="stylesheet" href="style.css">
+<title>TEST</title>
 </head>
 
-<body>
+<body style="background:red;color:white;font-size:50px;text-align:center;padding-top:100px;">
 
-<header>
-
-<h1>PLANORA</h1>
-
-<p>Plan Smarter. Live Better.</p>
-
-<button id="startBtn">Get Started</button>
-
-</header>
-
-<section class="hero">
-
-<h2>Your AI Calendar</h2>
-
-<p>
-Planora automatically organizes your day based on your goals,
-schedule and energy.
-</p>
-
-</section>
-
-<section class="features">
-
-<div class="card">
-📅
-<h3>Smart Calendar</h3>
-<p>Automatically plans your day.</p>
-</div>
-
-<div class="card">
-🤖
-<h3>AI Assistant</h3>
-<p>AI creates the perfect schedule.</p>
-</div>
-
-<div class="card">
-🎯
-<h3>Focus Mode</h3>
-<p>One task at a time.</p>
-</div>
-
-<div class="card">
-🔥
-<h3>Daily Streak</h3>
-<p>Stay motivated every day.</p>
-</div>
-
-</section>
-
-<script src="script.js"></script>
+PLANORA TEST
 
 </body>
 </html>
