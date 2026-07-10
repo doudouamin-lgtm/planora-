@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Planora</title>
+</head>
 
+<body>
+
+<h1>Planora</h1>
+
+<h2>Your AI Productivity Companion</h2>
+
+<p>
+Plan smarter.
+Stay focused.
+Build better habits.
+</p>
+
+<button>Get Started</button>
+
+<button>Watch Demo</button>
+
+<hr>
+
+<h2>Features</h2>
+
+<h3>📅 Smart Calendar</h3>
+
+<p>
+Automatically organizes your day.
+</p>
+
+<h3>🤖 AI Planner</h3>
+
+<p>
+Tell Planora what you need to do and it creates your schedule.
+</p>
+
+<h3>🎯 Focus Mode</h3>
+
+<p>
+Only one task appears at a time.
+</p>
+
+<h3>📈 Productivity</h3>
+
+<p>
+Track streaks, habits and completed tasks.
+</p>
+
+</body>
+</html>
